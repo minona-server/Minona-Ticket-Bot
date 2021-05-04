@@ -1,0 +1,6 @@
+[05:44:14 4th May 21] [Minona Ticket#9103] :> @here,
+@​semh yeni bir bilet oluşturdu
+[05:44:14 4th May 21] [Minona Ticket#9103] :> 
+[05:44:16 4th May 21] [semh#1201] :> deneme metni
+[05:44:18 4th May 21] [semh#1201] :> -close
+[05:44:18 4th May 21] [Minona Ticket#9103] :> 

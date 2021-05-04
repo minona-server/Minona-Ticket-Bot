@@ -1,0 +1,7 @@
+[05:35:26 4th May 21] [Minona Ticket#9103] :> @here,
+@​semh yeni bir bilet oluşturdu
+[05:35:27 4th May 21] [Minona Ticket#9103] :> 
+[05:35:42 4th May 21] [semh#1201] :> -add @​LonelyDelight
+[05:35:42 4th May 21] [Minona Ticket#9103] :> 
+[05:35:54 4th May 21] [semh#1201] :> -close
+[05:35:54 4th May 21] [Minona Ticket#9103] :> 
